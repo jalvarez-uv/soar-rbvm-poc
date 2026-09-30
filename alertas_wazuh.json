@@ -1,0 +1,252 @@
+[
+    {
+        "ip": "192.168.1.10",
+        "regla_nivel": 12,
+        "descripcion": "Ataque RCE detectado"
+    },
+    {
+        "ip": "192.168.1.20",
+        "regla_nivel": 10,
+        "descripcion": "Intento de explotaci\u00f3n web"
+    },
+    {
+        "ip": "192.168.1.50",
+        "regla_nivel": 3,
+        "descripcion": "Escaneo de puertos (Ruido)"
+    },
+    {
+        "ip": "192.168.1.20",
+        "regla_nivel": 5,
+        "descripcion": "Evento operacional gen\u00e9rico"
+    },
+    {
+        "ip": "192.168.1.20",
+        "regla_nivel": 8,
+        "descripcion": "Evento operacional gen\u00e9rico"
+    },
+    {
+        "ip": "192.168.1.10",
+        "regla_nivel": 7,
+        "descripcion": "Evento operacional gen\u00e9rico"
+    },
+    {
+        "ip": "192.168.1.10",
+        "regla_nivel": 3,
+        "descripcion": "Evento operacional gen\u00e9rico"
+    },
+    {
+        "ip": "192.168.1.10",
+        "regla_nivel": 5,
+        "descripcion": "Evento operacional gen\u00e9rico"
+    },
+    {
+        "ip": "192.168.1.20",
+        "regla_nivel": 8,
+        "descripcion": "Evento operacional gen\u00e9rico"
+    },
+    {
+        "ip": "192.168.1.10",
+        "regla_nivel": 5,
+        "descripcion": "Evento operacional gen\u00e9rico"
+    },
+    {
+        "ip": "192.168.1.50",
+        "regla_nivel": 8,
+        "descripcion": "Evento operacional gen\u00e9rico"
+    },
+    {
+        "ip": "192.168.1.20",
+        "regla_nivel": 3,
+        "descripcion": "Evento operacional gen\u00e9rico"
+    },
+    {
+        "ip": "192.168.1.20",
+        "regla_nivel": 8,
+        "descripcion": "Evento operacional gen\u00e9rico"
+    },
+    {
+        "ip": "192.168.1.20",
+        "regla_nivel": 8,
+        "descripcion": "Evento operacional gen\u00e9rico"
+    },
+    {
+        "ip": "192.168.1.20",
+        "regla_nivel": 7,
+        "descripcion": "Evento operacional gen\u00e9rico"
+    },
+    {
+        "ip": "192.168.1.50",
+        "regla_nivel": 3,
+        "descripcion": "Evento operacional gen\u00e9rico"
+    },
+    {
+        "ip": "192.168.1.10",
+        "regla_nivel": 3,
+        "descripcion": "Evento operacional gen\u00e9rico"
+    },
+    {
+        "ip": "192.168.1.10",
+        "regla_nivel": 5,
+        "descripcion": "Evento operacional gen\u00e9rico"
+    },
+    {
+        "ip": "192.168.1.30",
+        "regla_nivel": 5,
+        "descripcion": "Evento operacional gen\u00e9rico"
+    },
+    {
+        "ip": "192.168.1.30",
+        "regla_nivel": 8,
+        "descripcion": "Evento operacional gen\u00e9rico"
+    },
+    {
+        "ip": "192.168.1.20",
+        "regla_nivel": 8,
+        "descripcion": "Evento operacional gen\u00e9rico"
+    },
+    {
+        "ip": "192.168.1.30",
+        "regla_nivel": 7,
+        "descripcion": "Evento operacional gen\u00e9rico"
+    },
+    {
+        "ip": "192.168.1.10",
+        "regla_nivel": 5,
+        "descripcion": "Evento operacional gen\u00e9rico"
+    },
+    {
+        "ip": "192.168.1.10",
+        "regla_nivel": 7,
+        "descripcion": "Evento operacional gen\u00e9rico"
+    },
+    {
+        "ip": "192.168.1.50",
+        "regla_nivel": 3,
+        "descripcion": "Evento operacional gen\u00e9rico"
+    },
+    {
+        "ip": "192.168.1.10",
+        "regla_nivel": 7,
+        "descripcion": "Evento operacional gen\u00e9rico"
+    },
+    {
+        "ip": "192.168.1.20",
+        "regla_nivel": 8,
+        "descripcion": "Evento operacional gen\u00e9rico"
+    },
+    {
+        "ip": "192.168.1.20",
+        "regla_nivel": 5,
+        "descripcion": "Evento operacional gen\u00e9rico"
+    },
+    {
+        "ip": "192.168.1.20",
+        "regla_nivel": 3,
+        "descripcion": "Evento operacional gen\u00e9rico"
+    },
+    {
+        "ip": "192.168.1.50",
+        "regla_nivel": 8,
+        "descripcion": "Evento operacional gen\u00e9rico"
+    },
+    {
+        "ip": "192.168.1.10",
+        "regla_nivel": 5,
+        "descripcion": "Evento operacional gen\u00e9rico"
+    },
+    {
+        "ip": "192.168.1.50",
+        "regla_nivel": 7,
+        "descripcion": "Evento operacional gen\u00e9rico"
+    },
+    {
+        "ip": "192.168.1.10",
+        "regla_nivel": 5,
+        "descripcion": "Evento operacional gen\u00e9rico"
+    },
+    {
+        "ip": "192.168.1.30",
+        "regla_nivel": 5,
+        "descripcion": "Evento operacional gen\u00e9rico"
+    },
+    {
+        "ip": "192.168.1.10",
+        "regla_nivel": 3,
+        "descripcion": "Evento operacional gen\u00e9rico"
+    },
+    {
+        "ip": "192.168.1.20",
+        "regla_nivel": 3,
+        "descripcion": "Evento operacional gen\u00e9rico"
+    },
+    {
+        "ip": "192.168.1.10",
+        "regla_nivel": 7,
+        "descripcion": "Evento operacional gen\u00e9rico"
+    },
+    {
+        "ip": "192.168.1.20",
+        "regla_nivel": 3,
+        "descripcion": "Evento operacional gen\u00e9rico"
+    },
+    {
+        "ip": "192.168.1.10",
+        "regla_nivel": 8,
+        "descripcion": "Evento operacional gen\u00e9rico"
+    },
+    {
+        "ip": "192.168.1.20",
+        "regla_nivel": 8,
+        "descripcion": "Evento operacional gen\u00e9rico"
+    },
+    {
+        "ip": "192.168.1.10",
+        "regla_nivel": 3,
+        "descripcion": "Evento operacional gen\u00e9rico"
+    },
+    {
+        "ip": "192.168.1.20",
+        "regla_nivel": 7,
+        "descripcion": "Evento operacional gen\u00e9rico"
+    },
+    {
+        "ip": "192.168.1.10",
+        "regla_nivel": 7,
+        "descripcion": "Evento operacional gen\u00e9rico"
+    },
+    {
+        "ip": "192.168.1.20",
+        "regla_nivel": 7,
+        "descripcion": "Evento operacional gen\u00e9rico"
+    },
+    {
+        "ip": "192.168.1.50",
+        "regla_nivel": 7,
+        "descripcion": "Evento operacional gen\u00e9rico"
+    },
+    {
+        "ip": "192.168.1.50",
+        "regla_nivel": 3,
+        "descripcion": "Evento operacional gen\u00e9rico"
+    },
+    {
+        "ip": "192.168.1.10",
+        "regla_nivel": 8,
+        "descripcion": "Evento operacional gen\u00e9rico"
+    },
+    {
+        "ip": "192.168.1.50",
+        "regla_nivel": 5,
+        "descripcion": "Evento operacional gen\u00e9rico"
+    },
+    {
+        "ip": "192.168.1.50",
+        "regla_nivel": 8,
+        "descripcion": "Evento operacional gen\u00e9rico"
+    },
+    {
+        "ip": "192.168.1.10",
+        "regla_nivel": 8,
+        "descripcion": "Evento operacional gen\u00e9rico"
+    }
+]
